@@ -1,5 +1,5 @@
 {
-  "name": "next-with-apollo",
+  "name": "@sotnikov/next-with-apollo",
   "version": "6.0.0-beta.1",
   "description": "Apollo HOC for Next.js",
   "main": "lib/index.js",
@@ -12,8 +12,7 @@
     "tslint": "tslint -c tslint.json -p tsconfig.json -t codeFrame",
     "build": "tsc",
     "watch": "tsc -w",
-    "test": "yarn tslint && yarn build && jest",
-    "prepublishOnly": "yarn test"
+    "test": "yarn tslint && yarn build && jest"
   },
   "author": "lfades",
   "license": "MIT",

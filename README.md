@@ -1,3 +1,7 @@
+# This is temporary version
+
+See PR to original repository: https://github.com/lfades/next-with-apollo/pull/132
+
 # next-with-apollo
 
 ![Actions Status](https://github.com/lfades/next-with-apollo/workflows/Node%20CI/badge.svg)
