@@ -1,6 +1,7 @@
 # This is temporary version
 
-See PR to original repository: https://github.com/lfades/next-with-apollo/pull/132
+- See PR to original repository: https://github.com/lfades/next-with-apollo/pull/132
+- This version is available [on npm as package @sotnikov/next-with-apollo](https://www.npmjs.com/package/@sotnikov/next-with-apollo)
 
 # next-with-apollo
 
